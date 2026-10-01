@@ -1,0 +1,41 @@
+{
+  "manifest_version": "1.0",
+  "org": "block",
+  "repo": "opencli-go",
+  "versions": [
+    {
+      "commit": "55adcb6353a09e1f45355b12f86466d2ae88cc38",
+      "parsed_at": "2026-10-01T08:41:53.814968+00:00",
+      "tag": "main",
+      "filetree": "filetree/55adcb6353a09e1f45355b12f86466d2ae88cc38.nq.gz",
+      "blobs": [
+        "blob/081cbe83449cf8e625a3e2e79b6b35415c4e1503.nq.gz",
+        "blob/0367d2331a2cbfb3dadb43da08affe106a235c28.nq.gz",
+        "blob/46da95df7291c1f80c2c537997097ca4da4c7389.nq.gz",
+        "blob/862ee3c28647e7a58801a75236855c269c1448ae.nq.gz",
+        "blob/46a075c7bf4218e0bd9278426f5284bcf0abe6e9.nq.gz",
+        "blob/0ba9db25329d0b336e39ca8cde8470c5b7bc45eb.nq.gz",
+        "blob/8a128c522cb64713c06295a7352892d038fbabeb.nq.gz",
+        "blob/20a9e76fbcc7a888d461b5f5302133c32f950f15.nq.gz",
+        "blob/9582fc588754f78d9875691a3bd5e674295436b3.nq.gz",
+        "blob/014a291e96c95f1c15d037a01e7b3f903ab76a98.nq.gz",
+        "blob/6bccf43368fd7c96d9c659562a5142b8b8cb98a1.nq.gz",
+        "blob/eddf6967cf7e20669f11f2a16ecffa7176d7edb6.nq.gz",
+        "blob/25f0bc5ed80683a81f46e6bfd1cf8ea0b56c6807.nq.gz",
+        "blob/ef87a2566ba8589adfb837fcf0a1139602f918ee.nq.gz",
+        "blob/c64fa520d864b7d48fb2444292c3469db0c6d482.nq.gz",
+        "blob/981d030a0c890ff64d8e81ba4cab39757900f064.nq.gz",
+        "blob/e889550ba4cbc92a720527042e5f6e7a303bfcbc.nq.gz",
+        "blob/87acaadba3d3a97cd17d084637a6cdd94caf2167.nq.gz",
+        "blob/383f4511d444516caed0fd113ee8a2b640cd2290.nq.gz",
+        "blob/aa8e0db2b39dd45e9a37447e7fe2364a331d3511.nq.gz",
+        "blob/fe28214d3352b0ed40820a4999317694c8b1ef57.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
