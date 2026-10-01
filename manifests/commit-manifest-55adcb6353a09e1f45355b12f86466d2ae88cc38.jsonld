@@ -53,7 +53,7 @@
       "@type": "repolex:GraphFile",
       "repolex:graphType": "lsp",
       "repolex:graphFilePath": "aggregate/lsp/55adcb6353a09e1f45355b12f86466d2ae88cc38.nq.gz",
-      "repolex:graphFileSize": 2126
+      "repolex:graphFileSize": 2173
     }
   ],
   "repolex:parseStatus": "enrich_complete",
